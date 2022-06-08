@@ -8,4 +8,4 @@ Skills : WebSec | C++ | C | JS | HTML | CSS | Python
 - 📫 Reach me on [Instagram](https://www.instagram.com/arjun_mundamani/) 
 - <3 
 
-   [<img src='twitter.png' alt='twitter' height='40'>](https://twitter.com/H4K3R_)  [<img src='github.png' alt='github' height='40'>](https://github.com/H4K3R13)  [<img src='instagram.png' alt='instagram' height='40'>](https://www.instagram.com/arjun_mundmani/)  [<img src='slinkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/arjun-c-6144a4201/)
+   [<img src='twitter.png' alt='twitter' height='40'>](https://twitter.com/H4K3R_)  [<img src='github.png' alt='github' height='40'>](https://github.com/H4K3R13)  [<img src='instagram.png' alt='instagram' height='40'>](https://www.instagram.com/arjun_mundmani/)  [<img src='linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/arjun-c-6144a4201/)
