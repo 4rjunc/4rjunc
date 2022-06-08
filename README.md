@@ -1,7 +1,7 @@
 <h2>Voilà 👋</h2>
 
 
-<h4>I'm Arjun C</h4>
+<h7>I'm Arjun C</h7>
 
 Skills : WebSec | C++ | C | JS | HTML | CSS | Python
 
