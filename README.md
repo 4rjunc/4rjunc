@@ -7,8 +7,8 @@ Skills : WebSec | C++ | C | JS | HTML | CSS | Python
 
 - 🚩 CTF Player 
 - 🔒 Cyber Security enthusiast 
-- 🌧️ Spends Time On  [Tryhackme](<script src="https://tryhackme.com/badge/58123"></script>) 
-- 
+- 🌧️ Spends Time On  [Tryhackme](https://tryhackme.com/p/H4K3R) 
+- [<img src="https://tryhackme-badges.s3.amazonaws.com/H4K3R.png" alt="TryHackMe">]
 - 💻 CS Student at [NASC](https://nasc.ac.in/)
 
 <h2>📫 How to Reach me: </h2> 
