@@ -1,7 +1,7 @@
-<h2>Voilà  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h2>
+<h2>Voilà  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><h>I'm Arjun C</h> </h2>
 
 
-<h7>I'm Arjun C</h7>
+<h>I'm Arjun C</h>
 
 <p align="center">
   <a href="https://github.com/Hari-G-max/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Pentester;Self-taught%20Techie;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
