@@ -21,7 +21,7 @@
      
      
 Skills : WebSec | C++ | C | JS | HTML | CSS | Python
-
+- 🌐 Frontend Webdev
 - 🚩 CTF Player 
 - 🔒 Cyber Security enthusiast 
 - 🌧️ Spends Time On  [Tryhackme](https://tryhackme.com/p/H4K3R) 
