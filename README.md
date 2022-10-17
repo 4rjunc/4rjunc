@@ -2,11 +2,11 @@
 
 
 <p align="center">
-  <a href="https://github.com/Hari-G-max/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=;Self-taught%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/H4K3R13/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=;Self-taught%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 <br/>
 <p align="center">
-  <a href="https://github.com/Hari-G-max?tab=repositories&sort=stargazers">
+  <a href="https://github.com/H4K3R13?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Hari-G-max"/></a>
   <a href="https://github.com/H4K3R13?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/H4K3R13?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
