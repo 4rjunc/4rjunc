@@ -1,4 +1,4 @@
-<h2>Voilà  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><h>I'm Arjun C</h> </h2>
+<h2>Voilà  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><h>I'm Arjun </h> </h2>
 
 
 <p align="center">
