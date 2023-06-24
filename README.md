@@ -20,7 +20,7 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="H4K3R13's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=H4K3R13&theme=monokai-metallian&hide_border=true"/></a>
      
      
-Skills : WebSec | C++ | C | JS | HTML | CSS | Python | GIT | Bootstrap | Java | Flask
+Skills : WebSec | C++ | C | JS | HTML | CSS | Python | GIT | Bootstrap | Java | Flask | Django
 - 🌐 Frontend Webdev
 - 🚩 CTF Player 
 - 🔒 Cyber Security enthusiast 
