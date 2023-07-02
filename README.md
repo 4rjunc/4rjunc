@@ -21,10 +21,8 @@
      
      
 Skills : WebSec | C++ | C | JS | HTML | CSS | Python | GIT | Bootstrap | Java | Flask | Django
-- 🌐 Frontend Webdev
+- 🌐 Web Developer
 - 🚩 CTF Player 
-- 🔒 Cyber Security enthusiast 
-- 🌧️ Spends Time On  [Tryhackme](https://tryhackme.com/p/H4K3R) 
 - 💻 CS Student at [NASC](https://nasc.ac.in/)
 
 <h2>📫 How to Reach me: </h2> 
