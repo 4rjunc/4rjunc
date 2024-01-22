@@ -1,10 +1,10 @@
-<h2>Voilà  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><h>I'm Arjun </h> </h2>
+<!-- <h2>Voilà  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <h>I'm Arjun </h> </h2> -->
 
-
-
-<p align="center">
+<h2> <h>I'm Arjun </h> </h2>
+I Build and Break 
+<!-- <p align="center">
   <a href="https://github.com/H4K3R13/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=;Self-taught%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
+</p> -->
 <br/>
 <!---<p align="center">
   <a href="https://github.com/H4K3R13?tab=repositories&sort=stargazers">
@@ -21,7 +21,7 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="H4K3R13's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=H4K3R13&theme=monokai-metallian&hide_border=true"/></a>
      
      
-## Skills 
+<!-- ## Skills 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -45,17 +45,17 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) -->
+<!-- 
 
 - 🌐 Developer
 - 🚩 CTF Player 
-- 💻 Computer Science Student at [NASC](https://nasc.ac.in/)
+- 💻 Computer Science Student at [NASC](https://nasc.ac.in/) -->
 
   
-<h2>📫 How to Reach me: </h2> 
+<!-- <h2>📫 How to Reach me: </h2> 
 
-   [<img src='twitter.png' alt='twitter' height='40'>](https://twitter.com/H4K3R_)  [<img src='github.png' alt='github' height='40'>](https://github.com/H4K3R13)  [<img src='instagram.png' alt='instagram' height='40'>](https://www.instagram.com/arjun_mundmani/)  [<img src='linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/arjun-c-6144a4201/)
+   [<img src='twitter.png' alt='twitter' height='40'>](https://twitter.com/H4K3R_)  [<img src='github.png' alt='github' height='40'>](https://github.com/H4K3R13)  [<img src='instagram.png' alt='instagram' height='40'>](https://www.instagram.com/arjun_mundmani/)  [<img src='linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/arjun-c-6144a4201/) -->
 
 <a href="mailto:arjunmundamani@gmail.com">![arjunmundamani@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 
