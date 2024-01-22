@@ -50,7 +50,7 @@
 
 <!-- - 🌐 Developer
 - 🚩 CTF Player 
-- 💻 Computer Science Student at [NASC](https://nasc.ac.in/) --> -->
+- 💻 Computer Science Student at [NASC](https://nasc.ac.in/) --> 
 
   
 <!-- <h2>📫 How to Reach me: </h2> 
