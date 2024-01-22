@@ -60,4 +60,4 @@
 <a href="mailto:arjunmundamani@gmail.com">![arjunmundamani@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 
 <!-- <a href=#><img src="contributions.svg"></a> -->
-<img src="meow.gif" width="28">
+<img src="meow.gif">
