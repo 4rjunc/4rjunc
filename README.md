@@ -1,6 +1,6 @@
-<!-- <h2>Voilà  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <h>I'm Arjun </h> </h2> -->
+<!-- <h2>Voilà  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <h>I'm Arjun </h> </h2>
 
-<h1> I'm Arjun </h1>
+<h1> I'm Arjun </h1> -->
 <h2>i build and break </h2>
 <!-- <p align="center">
   <a href="https://github.com/H4K3R13/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=;Self-taught%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
@@ -13,12 +13,12 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/H4K3R13?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>-->
 
-<!-- ## 🔥 Streak stats -->
+<!-- ## 🔥 Streak stats
 
 
 <p align="center">
   <a href="https://github.com/H4K3R13/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="H4K3R13's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=H4K3R13&theme=monokai-metallian&hide_border=true"/></a>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="H4K3R13's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=H4K3R13&theme=monokai-metallian&hide_border=true"/></a> -->
      
 </p>
 <!-- ## Skills 
