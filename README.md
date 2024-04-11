@@ -1,7 +1,7 @@
 <!-- <h2>Voilà  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <h>I'm Arjun </h> </h2>
 
 <h1> I'm Arjun </h1> -->
-<h2>i build and break </h2>
+<h2>i do software </h2>
 <!-- <p align="center">
   <a href="https://github.com/H4K3R13/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=;Self-taught%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> -->
