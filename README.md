@@ -7,7 +7,7 @@
 </p> -->
 <br/>
 
-![arjuns github stats](https://github-readme-stats.vercel.app/api?username=H4K3R13)
+![arjuns github stats](https://github-readme-stats.vercel.app/api?username=H4K3R13&show_icons=true&theme=highcontrast)
 
 <!---<p align="center">
   <a href="https://github.com/H4K3R13?tab=repositories&sort=stargazers">
