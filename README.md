@@ -13,7 +13,7 @@
   <br/>
 
 <div align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" />
 </div>
 
   <img src="meow.gif" alt="Meow">
