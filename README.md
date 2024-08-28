@@ -12,8 +12,8 @@
   
   <br/>
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 
-        <i class="devicon-rust-original text-orange-500"></i>
 
   <img src="meow.gif" alt="Meow">
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
