@@ -13,7 +13,7 @@
   <br/>
 
 <div  align="center">
-        <img src="devs.gif" alt="devs">
+        <img src="devs.gif" alt="devs" style="border-radius:20px">
 </div>
 
   <img src="meow.gif" alt="Meow">
