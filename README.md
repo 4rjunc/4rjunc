@@ -12,7 +12,7 @@
   
   <br/>
 
-<div align="center">
+<div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;"  align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" />
 </div>
 
