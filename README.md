@@ -12,10 +12,9 @@
   
   <br/>
 
-<div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px; margin-bottom: 20px;"  align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" />
+<div  align="center">
+        <img src="devs.gif" alt="devs">
 </div>
 
   <img src="meow.gif" alt="Meow">
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </div>
