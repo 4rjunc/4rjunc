@@ -66,6 +66,7 @@
 | [blueshift-gg/Scilla](https://github.com/blueshift-gg/Scilla) | [feat: Vote Command](https://github.com/blueshift-gg/Scilla/pull/12) |
 | [blueshift-gg/Scilla](https://github.com/blueshift-gg/Scilla) | [feat: add `CloseVoteAccount` Command](https://github.com/blueshift-gg/Scilla/pull/36) |
 | [Turbin3/ADV-Runtime](https://github.com/Turbin3/ADV-Runtime) | [Add submodule and README entry for custom-syscall](https://github.com/Turbin3/ADV-Runtime/pull/2) |
+| [blueshift-gg/solana-yellowstone-grpc-mock](https://github.com/blueshift-gg/solana-yellowstone-grpc-mock) | [Add fixture-based replay support](https://github.com/blueshift-gg/solana-yellowstone-grpc-mock/pull/1) |
 
 ---
 
